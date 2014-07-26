@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="start">Start</string>
+    <string name="exit">Ende</string>
+    <string name="stop">Stop</string>
+    <string name="hour">Stunden</string>
+    <string name="minute">Minuten</string>
+    <string name="second">Sekunden</string>
+	<string name="app_name">Baby Schlaf Summer</string>
+	<string name="countdown">Verbleibende Sekunden: </string>
+	<string name="menu_settings">Einstellungen</string>
+	<string name="menu_record">Eigene Stimme aufnehmen</string>
+	<string name="menu_exit">Beenden</string>
+	<string name="pref_settings">Einstellungen</string>
+	<string name="pref_useOwnVoice">Eigene Stimme verwenden</string>
+	<string name="pref_useOwnVoice_Summary">Eigene Stimme</string>
+	<string name="stop_playing">Abspielen stoppen</string>
+	<string name="start_playing">Abspielen starten</string>
+	<string name="stop_recording">Aufnahme stoppen</string>
+	<string name="start_recording">Aufnahme starten</string>
+	<string name="vibration">Vibrieren</string>
+	<string name="own_voice">Eigene Stimme</string>
+	<string name="error_own_voice">Fehler beim Abspielen der eigenen Stimme</string>
+	<string name="good_night">Gute Nacht</string>
+</resources>
